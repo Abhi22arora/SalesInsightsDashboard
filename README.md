@@ -16,8 +16,7 @@ Sales director decided to hire a group of analysts to build interactive PowerBI 
 ### AIMS Grid
 
 <div align="center">
-<img height:"75" width:"75" src="https://github.com/Abhi22arora/SalesInsightsDashboard/blob/198689cf379db1321b0284c5b79f251f4249798d/Images/AimsGrid.png
-">
+<img height:"75" width:"75" src="https://github.com/Abhi22arora/SalesInsightsDashboard/blob/198689cf379db1321b0284c5b79f251f4249798d/Images/AimsGrid.png">
 </div>
 
 ### DATA MODEL
